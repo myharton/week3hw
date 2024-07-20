@@ -1,0 +1,31 @@
+flex-container {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    flex-direction: row; 
+
+  
+
+}
+
+h1 {
+    color: blue; 
+    background-color: black; 
+}
+
+p {
+    color: #333; 
+    background-color: rgba(28, 20, 128, 0.1); 
+}
+
+body {
+    font-family: 'Arial', sans-serif; 
+    font-size: 16px; 
+    font-weight: bold; 
+    text-align: center; 
+    line-height: 1.5; 
+    background-color:rgb(147, 188, 225);
+}
+
+
+
